@@ -1,53 +1,56 @@
-# Dharanesh VN | Full-Stack Developer
-
-<p>
-  <a href="https://www.linkedin.com/in/dharaneshvn/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:dharaneshnatarajan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+# DHARANESH V N | Full-Stack Developer
 
 ---
 
-### About Me
+### Profile
 
-I am a dedicated Full-Stack Developer with comprehensive expertise in building secure, scalable, and user-centric web applications using the **MERN (MongoDB, Express.js, React, Node.js)** stack. My project experience involves engineering role-based RESTful APIs, architecting complex database schemas, and developing robust user interfaces.
-
-Driven by a passion for continuous learning and modern web technologies, I am currently expanding my skill set into the **MEAN (MongoDB, Express.js, Angular, Node.js)** stack to deliver even more versatile software solutions.
+Full Stack Developer dedicated to creating user-friendly web applications. Skilled in web technologies, delivering effective solutions that balance design and functionality. Thrive in collaborative environments and committed to continuous learning, especially in full-stack development and UI/UX design.
 
 ---
 
-### 🛠️ Technical Skills
+### Technical Skills
 
-My technical expertise includes a wide range of modern technologies across the development stack:
-
-| Category        | Technologies                                                                                           |
-|-----------------|--------------------------------------------------------------------------------------------------------|
-| **Languages**   | `JavaScript (ES6+)` `Python` `SQL (PostgreSQL/MySQL)` `HTML5` `CSS3` `C`                                 |
-| **Frontend**    | `React` `Framer Motion` `React Three Fiber (R3F)` `Axios` `Responsive Design` `UI/UX Principles`         |
-| **Backend**     | `Node.js` `Express.js` `RESTful APIs` `Mongoose ODM`                                                     |
-| **Databases**   | `MongoDB (NoSQL)` `PostgreSQL / MySQL (Relational)`                                                      |
-| **Tooling**     | `Git` `GitHub` `Vercel` `Render` `NPM` `VS Code` `Figma` `Postman`                                         |
+| Category | Technologies |
+|---|---|
+| **Programming Languages** | `JavaScript` `TypeScript` `HTML` `SQL` `Python` |
+| **Web Development** | `MERN Stack` `MEAN Stack` `Tailwind CSS` `RESTful API` `UX/UI Design` |
+| **Tools** | `VS Code` `Git` `Jenkins` `Postman` `SonarQube` `Maven` `Docker` `Nginx` `Gerrit` |
 
 ---
 
-### 📂 Featured Projects
+### Featured Projects
 
-Below are selected projects that highlight my ability to architect and build full-stack applications from the ground up.
+Here is a selection of my recent projects. **(Note: Please replace '#' with your actual project URLs)**
 
-| Project                          | Description                                                                                                                                                             | Tech Stack                                                                    |
-|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
-| **CIT Institutional Aptitude Portal** | Engineered a secure, in-house platform for institutional aptitude tests. Features include a role-based RESTful API, a proctored test-taking UI, and a scalable MongoDB schema for content management. | `React` `Node.js` `Express` `MongoDB` `JWT Auth` `REST API` `Chakra UI`         |
-| **Student Money Tracker System**     | Developed a comprehensive "Finance OS" for personal financial management. Architected a secure MERN application with full CRUD capabilities across seven interconnected data models and a real-time tracking core. | `React` `Node.js` `Express` `MongoDB` `JWT Auth` `Styled-Components` `Recharts` |
+### Featured Projects
+
+Here is a selection of my recent projects.
+
+| Project | Description | Key Technologies |
+|---|---|---|
+| **Nexus - Freelancer Dashboard** | Real-time dashboard with project tracking, AI-powered finance insights, and client management. | `React` `TypeScript` `Tailwind CSS` `Supabase` `PostgreSQL` |
+| **Orbit - AI-Powered Student Planner** | Smart planner with task scheduling, timetable management, and an integrated AI study assistant. | `Angular` `Node.js` `Express` `MongoDB` `JWT Auth` |
+| **Grover - Smart Agricultural Mgmt** | Streamlines farm operations with role-based dashboards for managers, farmers, and workers. | `Angular` `Node.js` `Express` `MongoDB` `REST API` |
+| **Where’dItGo? - Personal Finance OS** | Personal finance dashboard to track income, expenses, and savings with clear visual insights. | `React` `Node.js` `Express` `MongoDB` `JWT Auth` |
+| **CIT Institutional Aptitude Portal** | A secure, role-based platform for creating, managing, and conducting fully proctored aptitude tests. | `React` `Node.js` `MongoDB` `Chakra UI` |
+| **DemocraSee - Civic Transparency** | Centralized platform presenting government data through clean, accessible public dashboards. | `React` `Node.js` `MongoDB` `Tailwind CSS` |
+| **MediDesk - Healthcare Mgmt System** | Role-based system for booking appointments and managing patient records for clinics and hospitals. | `React` `Node.js` `Express` `MongoDB` `JWT Auth` |
 
 ---
 
-### 🎓 Education & Certifications
+### Education & Certifications
 
-- **M.Sc in Decision and Computing Sciences** - *Coimbatore Institute of Technology* (2023 - Present)
+- **M.Sc. Decision and Computing Sciences (Integrated)**
+  - *Coimbatore Institute Of Technology* (2023 - Present)
+
 - **Certifications:**
-  - **HackerRank:** Python Basics, C Basics, SQL Basics
+  - **HackerRank:** Python Basics, C Basics, SQL Basics, JavaScript Basics, Frontend Developer (React)
   - **LinkedIn Learning:** Learning Data Analytics
   - **TCS iON Career Edge:** Young Professional Course
+
+---
+
+### Roles
+
+- **Joint Secretary** - KLIC Studio (Photo Club)
+- **Student Coordinator** - Institution's Innovation Council
